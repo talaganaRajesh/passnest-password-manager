@@ -8,7 +8,7 @@ const Navbar = () => {
   
   useEffect(() => {
     // Replace 'username/repo' with your actual GitHub repository path
-    fetch('https://api.github.com/repos/talaganaRajesh/AllinOne')
+    fetch('https://github.com/talaganaRajesh/passnest-password-manager.git')
       .then(response => response.json())
       .then(data => setStars(data.stargazers_count))
       .catch(error => console.error('Error fetching GitHub stats:', error));
