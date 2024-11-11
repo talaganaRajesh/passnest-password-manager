@@ -31,7 +31,7 @@ const Navbar = () => {
           {/* GitHub Button */}
           <RainbowButton className="px-3 md:px-9">
             <a
-              href="https://github.com/talaganaRajesh/AllinOne.git" // Replace with your actual repo URL
+              href="https://github.com/talaganaRajesh/passnest-password-manager.git" // Replace with your actual repo URL
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1 text-white"
