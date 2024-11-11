@@ -16,7 +16,7 @@ const Navbar = () => {
 
   return (
     <>
-      <nav className="w-full bg-gradient-to-r from-green-100 to-cyan-300 shadow-md py-4 px-6">
+      <nav className="w-full bg-gradient-to-r from-white to-cyan-50 shadow-md py-4 px-6">
         <div className="container mx-auto flex justify-between items-center">
           {/* Logo */}
           <div>

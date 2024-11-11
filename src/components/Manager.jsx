@@ -219,7 +219,7 @@ function Manager() {
             <div className='text-center pb-2'>
                 <a href="https://talaganarajesh.vercel.app/"> <h1>Built with 💖 by <span className='font-bold text-green-600'>Rajesh</span></h1></a>
             </div>
-
+                
         </div>
     )
 }
